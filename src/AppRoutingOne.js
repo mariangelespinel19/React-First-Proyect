@@ -12,8 +12,8 @@ function AppRoutingOne() {
     <Router>
       <div>
         <aside>
-          <Link to='/'>|| HOME |</Link>
-          <Link to='/about'>| ABOUT |</Link>
+          <Link to='/'>|| HOOME |</Link>
+          <Link to='/about'>| ABOOUT |</Link>
           <Link to='/faqs'>| FAQs ||</Link>
           <Link to='/any404'>|| Not Existing Route || </Link>
         </aside>
